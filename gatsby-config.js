@@ -1,9 +1,8 @@
 module.exports = {
   siteMetadata: {
     title: `WordPress You Say?!`,
-    subTitle: `An advanced guide to modern WordPress theme and plug-in development`,
     author: `Stef Thoen`,
-    description: `A Advanced Guide to modern WordPress theme and plug-in development`,
+    description: `An Advanced Guide to modern WordPress theme and plug-in development`,
     siteUrl: `https://stefthoen.com`,
     social: {
       twitter: `stefthoen`,
